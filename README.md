@@ -1,6 +1,8 @@
-# Resnet_fashionmnist
+# Resnet_FashionMNIST
 
-fashionmnist 데이터셋에서 resnet50,101 resnext50,101을 구현하고 성능 차이를 비교하였습니다.
+FashionMNIST 데이터셋을 사용하여 ResNet50, ResNet101, ResNeXt50, ResNeXt101 모델을 구현하고 성능 차이를 비교하였습니다.
+모델 간 파라미터 수와 FLOPs는 10% 이내의 차이로 제한하였습니다.
 
+결과 정리는 결과 정리(테이블, 텐서보드).pdf 문서를 참고해 주세요.
 
-[결과정리(테이블,텐서보드)_201921482박양렬.pdf](https://github.com/user-attachments/files/18046382/_201921482.pdf)
+[결과정리(테이블,텐서보드).pdf](https://github.com/user-attachments/files/18046385/default.pdf)
